@@ -53,6 +53,8 @@
             // 
             // panel1
             // 
+            panel1.BackColor = Color.FromArgb(77, 76, 76);
+            panel1.BorderStyle = BorderStyle.FixedSingle;
             panel1.Controls.Add(label1);
             panel1.Location = new Point(37, 88);
             panel1.Name = "panel1";
@@ -61,6 +63,7 @@
             // 
             // panel2
             // 
+            panel2.BorderStyle = BorderStyle.Fixed3D;
             panel2.Controls.Add(textBox5);
             panel2.Controls.Add(textBox4);
             panel2.Controls.Add(textBox3);
@@ -71,6 +74,7 @@
             panel2.Controls.Add(label3);
             panel2.Controls.Add(textBox1);
             panel2.Controls.Add(label2);
+            panel2.ForeColor = Color.White;
             panel2.Location = new Point(37, 199);
             panel2.Name = "panel2";
             panel2.Size = new Size(528, 315);
@@ -78,9 +82,11 @@
             // 
             // pictureBox1
             // 
-            pictureBox1.Location = new Point(608, 88);
+            pictureBox1.Image = Properties.Resources.casco_de_seguridad;
+            pictureBox1.Location = new Point(608, 31);
             pictureBox1.Name = "pictureBox1";
-            pictureBox1.Size = new Size(362, 234);
+            pictureBox1.Size = new Size(362, 299);
+            pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
             pictureBox1.TabIndex = 2;
             pictureBox1.TabStop = false;
             pictureBox1.Click += pictureBox1_Click;
@@ -98,6 +104,7 @@
             // 
             label1.AutoSize = true;
             label1.Font = new Font("Roboto", 16.2F, FontStyle.Bold, GraphicsUnit.Point);
+            label1.ForeColor = Color.White;
             label1.Location = new Point(23, 23);
             label1.Name = "label1";
             label1.Size = new Size(216, 34);
@@ -107,15 +114,17 @@
             // label2
             // 
             label2.AutoSize = true;
-            label2.Font = new Font("Roboto", 9F, FontStyle.Regular, GraphicsUnit.Point);
-            label2.Location = new Point(23, 20);
+            label2.Font = new Font("Roboto", 10.2F, FontStyle.Bold, GraphicsUnit.Point);
+            label2.ForeColor = Color.White;
+            label2.Location = new Point(24, 13);
             label2.Name = "label2";
-            label2.Size = new Size(197, 18);
+            label2.Size = new Size(227, 20);
             label2.TabIndex = 0;
             label2.Text = "Nombre del Nuevo Proyecto";
             // 
             // textBox1
             // 
+            textBox1.BackColor = Color.FromArgb(77, 76, 76);
             textBox1.Location = new Point(23, 41);
             textBox1.Name = "textBox1";
             textBox1.Size = new Size(478, 27);
@@ -124,20 +133,22 @@
             // label3
             // 
             label3.AutoSize = true;
-            label3.Font = new Font("Roboto", 9F, FontStyle.Regular, GraphicsUnit.Point);
-            label3.Location = new Point(23, 90);
+            label3.Font = new Font("Roboto", 10.2F, FontStyle.Bold, GraphicsUnit.Point);
+            label3.ForeColor = Color.White;
+            label3.Location = new Point(24, 83);
             label3.Name = "label3";
-            label3.Size = new Size(136, 18);
+            label3.Size = new Size(160, 20);
             label3.TabIndex = 2;
             label3.Text = "Presupuesto Inicial";
             // 
             // label4
             // 
             label4.AutoSize = true;
-            label4.Font = new Font("Roboto", 9F, FontStyle.Regular, GraphicsUnit.Point);
-            label4.Location = new Point(23, 158);
+            label4.Font = new Font("Roboto", 10.2F, FontStyle.Bold, GraphicsUnit.Point);
+            label4.ForeColor = Color.White;
+            label4.Location = new Point(24, 151);
             label4.Name = "label4";
-            label4.Size = new Size(87, 18);
+            label4.Size = new Size(102, 20);
             label4.TabIndex = 3;
             label4.Text = "Beneficiario";
             label4.Click += label4_Click;
@@ -145,25 +156,28 @@
             // label5
             // 
             label5.AutoSize = true;
-            label5.Font = new Font("Roboto", 9F, FontStyle.Regular, GraphicsUnit.Point);
-            label5.Location = new Point(23, 237);
+            label5.Font = new Font("Roboto", 10.2F, FontStyle.Bold, GraphicsUnit.Point);
+            label5.ForeColor = Color.White;
+            label5.Location = new Point(24, 230);
             label5.Name = "label5";
-            label5.Size = new Size(109, 18);
+            label5.Size = new Size(126, 20);
             label5.TabIndex = 4;
             label5.Text = "Fecha de Inicio";
             // 
             // label6
             // 
             label6.AutoSize = true;
-            label6.Font = new Font("Roboto", 9F, FontStyle.Regular, GraphicsUnit.Point);
-            label6.Location = new Point(271, 90);
+            label6.Font = new Font("Roboto", 10.2F, FontStyle.Bold, GraphicsUnit.Point);
+            label6.ForeColor = Color.White;
+            label6.Location = new Point(272, 83);
             label6.Name = "label6";
-            label6.Size = new Size(88, 18);
+            label6.Size = new Size(102, 20);
             label6.TabIndex = 4;
             label6.Text = "Descripcion";
             // 
             // textBox2
             // 
+            textBox2.BackColor = Color.FromArgb(77, 76, 76);
             textBox2.Location = new Point(23, 111);
             textBox2.Name = "textBox2";
             textBox2.Size = new Size(227, 27);
@@ -171,6 +185,7 @@
             // 
             // textBox3
             // 
+            textBox3.BackColor = Color.FromArgb(77, 76, 76);
             textBox3.Location = new Point(23, 179);
             textBox3.Name = "textBox3";
             textBox3.Size = new Size(227, 27);
@@ -178,6 +193,7 @@
             // 
             // textBox4
             // 
+            textBox4.BackColor = Color.FromArgb(77, 76, 76);
             textBox4.Location = new Point(23, 258);
             textBox4.Name = "textBox4";
             textBox4.Size = new Size(227, 27);
@@ -185,6 +201,7 @@
             // 
             // textBox5
             // 
+            textBox5.BackColor = Color.FromArgb(77, 76, 76);
             textBox5.Location = new Point(271, 111);
             textBox5.Multiline = true;
             textBox5.Name = "textBox5";
@@ -195,6 +212,7 @@
             // 
             label7.AutoSize = true;
             label7.Font = new Font("Roboto", 9F, FontStyle.Regular, GraphicsUnit.Point);
+            label7.ForeColor = Color.White;
             label7.Location = new Point(608, 346);
             label7.Name = "label7";
             label7.Size = new Size(364, 108);
@@ -205,18 +223,21 @@
             // 
             // button2
             // 
-            button2.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point);
-            button2.Location = new Point(606, 485);
+            button2.BackColor = Color.FromArgb(35, 134, 54);
+            button2.Font = new Font("Roboto Black", 9F, FontStyle.Bold, GraphicsUnit.Point);
+            button2.ForeColor = Color.White;
+            button2.Location = new Point(606, 470);
             button2.Name = "button2";
-            button2.Size = new Size(364, 29);
+            button2.Size = new Size(364, 44);
             button2.TabIndex = 10;
             button2.Text = "CREAR PROYECTO";
-            button2.UseVisualStyleBackColor = true;
+            button2.UseVisualStyleBackColor = false;
             // 
             // Proyecto_Nuevo
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
+            BackColor = Color.FromArgb(20, 18, 35);
             ClientSize = new Size(1006, 553);
             Controls.Add(button2);
             Controls.Add(label7);
