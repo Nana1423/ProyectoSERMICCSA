@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\Especificados de etapa\Especificados de etapa\bin\Debug\Especificados de etapa.exe.config
+C:\Users\USER\source\repos\Especificados de etapa\Especificados de etapa\bin\Debug\Especificados de etapa.exe
+C:\Users\USER\source\repos\Especificados de etapa\Especificados de etapa\bin\Debug\Especificados de etapa.pdb
+C:\Users\USER\source\repos\Especificados de etapa\Especificados de etapa\bin\Debug\Especificados de etapa.xml
+C:\Users\USER\source\repos\Especificados de etapa\Especificados de etapa\obj\Debug\Especificados de etapa.vbproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Especificados de etapa\Especificados de etapa\obj\Debug\Especificados de etapa.vbproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\Especificados de etapa\Especificados de etapa\obj\Debug\Especificados_de_etapa.Form1.resources
+C:\Users\USER\source\repos\Especificados de etapa\Especificados de etapa\obj\Debug\Especificados_de_etapa.Resources.resources
+C:\Users\USER\source\repos\Especificados de etapa\Especificados de etapa\obj\Debug\Especificados de etapa.vbproj.GenerateResource.cache
+C:\Users\USER\source\repos\Especificados de etapa\Especificados de etapa\obj\Debug\Especificados de etapa.vbproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Especificados de etapa\Especificados de etapa\obj\Debug\Especificados de etapa.exe
+C:\Users\USER\source\repos\Especificados de etapa\Especificados de etapa\obj\Debug\Especificados de etapa.xml
+C:\Users\USER\source\repos\Especificados de etapa\Especificados de etapa\obj\Debug\Especificados de etapa.pdb

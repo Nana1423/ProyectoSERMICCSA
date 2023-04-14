@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\prueba\prueba\bin\Debug\prueba.exe.config
+C:\Users\USER\source\repos\prueba\prueba\bin\Debug\prueba.exe
+C:\Users\USER\source\repos\prueba\prueba\bin\Debug\prueba.pdb
+C:\Users\USER\source\repos\prueba\prueba\bin\Debug\prueba.xml
+C:\Users\USER\source\repos\prueba\prueba\obj\Debug\Gasto por Etapas.vbproj.AssemblyReference.cache
+C:\Users\USER\source\repos\prueba\prueba\obj\Debug\Gasto por Etapas.vbproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\prueba\prueba\obj\Debug\prueba.Form1.resources
+C:\Users\USER\source\repos\prueba\prueba\obj\Debug\prueba.Resources.resources
+C:\Users\USER\source\repos\prueba\prueba\obj\Debug\Gasto por Etapas.vbproj.GenerateResource.cache
+C:\Users\USER\source\repos\prueba\prueba\obj\Debug\Gasto por Etapas.vbproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\prueba\prueba\obj\Debug\prueba.exe
+C:\Users\USER\source\repos\prueba\prueba\obj\Debug\prueba.xml
+C:\Users\USER\source\repos\prueba\prueba\obj\Debug\prueba.pdb
